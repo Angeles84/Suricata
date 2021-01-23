@@ -1,0 +1,34 @@
+body {
+ font-family: 'Open Sans', sans-serif;
+}
+
+nav a img {
+ width: 40%;
+}
+
+section h1 {
+ color: #707070;
+}
+
+ul {
+ list-style-type: none;
+}
+
+.icons-section ul li {
+ display: inline-block;
+}
+
+article {
+ margin-bottom: 0;
+ padding-bottom: 0;
+}
+
+.rosa {
+background-color: #E83E8C;
+}
+
+.bicho {
+height: 9rem;
+padding-top: 2rem;
+padding-bottom: 2rem;
+}
